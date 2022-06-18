@@ -1,6 +1,9 @@
 
 public class system {
 	public static void main(String[] args) {
-		System.out.print(b);
+		int a =0;
+		int b=0;
+		int sum = a+b;
+		System.out.println(sum);
 	}
 }
